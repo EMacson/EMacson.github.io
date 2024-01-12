@@ -5,11 +5,11 @@
 - B.S. Mathematics | The University of Calgary (_May 2024_)
 
 ## Work Experience
-**NSERC USRA Summer Student (_May 2023-August 2023_)**
+**NSERC USRA Summer Student @ the University of Calgary (_May 2023-August 2023_)**
 
-**Key Holder (_May 2020-May 2023_)**
+**Key Holder @ Village Ice Cream (_May 2020-May 2023_)**
 
-**Lifeguard and Swim Instructor (_May 2017-December 2019_)**
+**Lifeguard and Swim Instructor @ Y.M.C.A. Calgary (_May 2017-December 2019_)**
 
 ## Projects
 ### CPSC 502 (_Research Project in Computer Science_)
