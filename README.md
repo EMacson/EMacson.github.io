@@ -1,10 +1,16 @@
 # Student
 
-### Education
+## Education
 - B.S. Computer Science | The University of Calgary (_May 2024_)
 - B.S. Mathematics | The University of Calgary (_May 2024_)
 
-### Work Experience
+## Work Experience
+**NSERC USRA Summer Student (_May 2023-August 2023_)**
 
-### Projects
-#### CPSC 599.88
+**Key Holder (_May 2020-May 2023_)**
+
+**Lifeguard and Swim Instructor (_May 2017-December 2019_)**
+
+## Projects
+### CPSC 502 (_Research Project in Computer Science_)
+### CPSC 599.88 (_Physical & Tangible HCI_)
