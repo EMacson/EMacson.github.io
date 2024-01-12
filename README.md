@@ -14,3 +14,6 @@
 ## Projects
 ### CPSC 502 (_Research Project in Computer Science_)
 ### CPSC 599.88 (_Physical & Tangible HCI_)
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/ethan-macson-69ab22172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
