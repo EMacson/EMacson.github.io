@@ -5,3 +5,6 @@
 - B.S. Mathematics | The University of Calgary (_May 2024_)
 
 ### Work Experience
+
+### Projects
+## CPSC 599.88
