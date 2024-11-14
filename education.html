@@ -11,16 +11,28 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f0f4f8;
+            background-color: #f3f6fa;
         }
 
         .resume-section {
+            max-width: 800px;
+            margin: auto;
+            background-color: #ffffff;
+            border-radius: 6px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .section-header {
+            font-size: 1.4em;
+            color: #4a90e2;
+            text-transform: uppercase;
+            font-weight: bold;
             margin-bottom: 20px;
         }
 
         .education-entry {
-            border-left: 3px solid #4a90e2;
-            padding-left: 15px;
             margin-bottom: 15px;
         }
 
@@ -28,31 +40,31 @@
             font-weight: bold;
             font-size: 1.1em;
             color: #333;
+            display: inline-block;
+        }
+
+        .date-range {
+            font-size: 0.95em;
+            color: #666;
+            float: right;
         }
 
         .institution {
             font-size: 1em;
             color: #555;
+            margin-top: 3px;
         }
 
-        .date-range {
-            color: #888;
+        .gpa, .scholarship {
             font-size: 0.9em;
-            float: right;
-        }
-
-        .description {
+            color: #333;
             margin-top: 5px;
-            font-size: 0.95em;
-            color: #333;
         }
 
-        .resume-section h2 {
-            font-size: 1.2em;
-            margin-bottom: 10px;
-            color: #333;
-            border-bottom: 2px solid #333;
-            padding-bottom: 5px;
+        .highlighted-courses {
+            font-size: 0.9em;
+            color: #444;
+            margin-top: 5px;
         }
     </style>
 
@@ -90,8 +102,41 @@
 
 				<!-- Main -->
 					<div id="main">
-
-						
+						<div class="resume-section">
+							<div>
+								<section class="major">
+									<h1>Education</h1>
+								</section>
+							</div>
+					
+							<!-- First Education Entry -->
+							<div class="education-entry">
+								<div>
+									<span class="degree">Bachelor of Science with Distinction, Computer Science</span>
+									<span class="date-range">Sept 2018 – May 2024</span>
+								</div>
+								<div class="institution">Faculty of Science, University of Calgary</div>
+								<div class="gpa">GPA: 3.61/4.0</div>
+								<div class="scholarship">Scholarships: Alexander Rutherford, Jason Lang, NSERC URSA</div>
+								<div class="highlighted-courses">
+									Highlighted Courses: Computing Machinery, Human-Computer Interactions, Principles of Operating Systems
+								</div>
+							</div>
+					
+							<!-- Second Education Entry -->
+							<div class="education-entry">
+								<div>
+									<span class="degree">Bachelor of Science with Distinction, Mathematics</span>
+									<span class="date-range">Sept 2018 – May 2024</span>
+								</div>
+								<div class="institution">Faculty of Science, University of Calgary</div>
+								<div class="gpa">GPA: 3.61/4.0</div>
+								<div class="scholarship">Scholarships: Alexander Rutherford, Jason Lang, NSERC URSA</div>
+								<div class="highlighted-courses">
+									Highlighted Courses: Linear Algebra, Real Analysis, Theoretical Statistics
+								</div>
+							</div>
+						</div>						
 					</div>
 
 				<!-- Footer -->
