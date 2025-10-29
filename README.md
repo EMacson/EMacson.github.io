@@ -1,6 +1,6 @@
 This is the repo for my [website](https://emacson.github.io).
 
-It is a basic static website based on the Massively template created by @ajlkn.
+It is based on the Massively template created by @ajlkn.
 Credit for the template is below.
 
 
